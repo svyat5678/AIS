@@ -24,7 +24,7 @@ function dfs(graph, startNode) {
 }
     
     
-    // Пример графа новый
+    // Пример графа другой
     let graph = {
     A: ['B', 'C'],
     B: ['A', 'D', 'E'],
